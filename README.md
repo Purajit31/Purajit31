@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Purajit.
+- 👀 I’m interested in App Devlopment.
+- 🌱 I’m currently learning to make apps.
+- 📫 You can easily reach me with the email: purajit31@gmail.com
